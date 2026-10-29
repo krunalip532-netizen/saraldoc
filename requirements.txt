@@ -1,0 +1,8 @@
+
+Flask
+gunicorn
+pypdf
+python-docx
+requests
+langdetect
+indictrans2
